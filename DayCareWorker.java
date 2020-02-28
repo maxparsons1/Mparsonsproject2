@@ -4,7 +4,6 @@ import java.util.Optional;
 import java.util.Random;
 public class DayCareWorker {
     private String Name;
-    public Optional<Child>;
     private float salary;
     private ArrayList<Child> childerenInGroup;
     Random randgenerator = new Random();
